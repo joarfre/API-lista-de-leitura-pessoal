@@ -1,0 +1,1 @@
+Projeto pessoal para controle de lista de leitura. Com fins de treinamento.
