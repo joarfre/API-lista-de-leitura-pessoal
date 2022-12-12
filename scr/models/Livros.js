@@ -2,7 +2,7 @@ import mongoose from "mongoose";
 
 const livroSchema = mongoose.Schema (
     {
-        id: {type: String, required: true},
+        id: {type: String},
         titulo: {type: String, required: true},
         autor: {type: String, required: false},
         numeroPaginas: {type: Number, required: false},
